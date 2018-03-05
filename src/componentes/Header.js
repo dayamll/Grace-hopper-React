@@ -7,7 +7,7 @@ import "../src/index.css";
 class Header extends Component {
   render() {
     return (
-      <header className="">
+      <header>
       <h1>Grace Murray Hopper</h1>
       <hr></hr>
       </header>
