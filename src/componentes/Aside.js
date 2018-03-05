@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
 
-import "../src/index.css";
+import "../index.css";
 
 class Aside extends Component {
   render() {
